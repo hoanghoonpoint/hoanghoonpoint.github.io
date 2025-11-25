@@ -14,7 +14,7 @@ For example, for an order, the order_id is a dimension, and the value of the ord
 
 The data team has released a system called OLAP, which includes several datasets related to different departments as follows:
 
-| Original Project | Original Data Module |
+| Scope | Module |
 |------------------|---------------------|
 | Brand/Store Performance | Affiliate |
 | | Creator |
@@ -39,7 +39,7 @@ The data team has released a system called OLAP, which includes several datasets
 | | Livestream |
 | | Ads |
 
-- [OnPointOne Cube Definition](onpoint-one-table.md)
+[OnPointOne Cube Definition](onpoint-one-table.md)
 
 
 
